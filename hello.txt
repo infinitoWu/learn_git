@@ -1,2 +1,3 @@
 ZdAd
-hello world
+hello world -conflict
+god dame
